@@ -25,4 +25,6 @@ Llama Joy is an e-commerce website that sells llama-inspired baby shoes.
 I am Mojia, studying Computer Science and Psychology at Wellesley College. I am a passionate software engineer and entrepreneur. Check out my [personal website] here: (http://mojiashen.com),  my [past projects] (http://mojiashen.com/project.html), as well as my [Github] (https://github.com/Mojiashen1). I started on CS just last semester! But my learning has been exponential.
 
 I am excited about front-end engineering because it is the work that shapes how we see and feel. I know different layouts, colors, animations can give the user a totally different experience, and therefore different business results. I am particularly excited about being a front end engineer because there are so many great frameworks and tools that empower us to build better interfaces. I want to realize the great UX/UI work the designers do and impact the product! My course work in CS and Psychology gives me the solid skill set to program interactive web pages, as well as the insights of how to build products that get users hooked. I am excited about this opportunity to intern at Zappos!
+
 # llamajoy-website
+http://llama-joy.herokuapp.com/
