@@ -1,4 +1,4 @@
-# [Llama Joy](http://llama-joy.herokuapp.com/)
+# [Llama Joy](http://llamajoy-website.herokuapp.com/)
 
 Llama Joy is an e-commerce website that sells llama-inspired baby shoes.
 
@@ -14,6 +14,7 @@ Llama Joy is an e-commerce website that sells llama-inspired baby shoes.
 ## Framework & tools
 
 * I use html, css, javascript and jQuery for the website.
+* I had a challenge posting this website to heroku, because it only runs app, not static website. I searched all over the internet, and found a solution. I created a fake php page and tricked heroku.
 * Since this page is only front-end, I decide to only use html, css, JS. However, to build a more complex e-commerce web page, I will consider either to use express.js with handlebars, or react.js. Handlebars is particularly good for website with multiple pages, as all the pages can be based on layout.hbs. Express.js allows javascript to be used across the stack, and makes it convenient to hook the front-end and the back-end. React is very helpful for websites that are super dynamic. The react state machine manages changes without needing to reload the whole page.
 * I use bootstrap for the responsive navbar as well as buttons. Bootstrap also helps me make the page responsive.
 * I use fontawesome for the icons, unsplash.com for the cover photo.
@@ -27,4 +28,4 @@ I am Mojia, studying Computer Science and Psychology at Wellesley College. I am 
 I am excited about front-end engineering because it is the work that shapes how we see and feel. I know different layouts, colors, animations can give the user a totally different experience, and therefore different business results. I am particularly excited about being a front end engineer because there are so many great frameworks and tools that empower us to build better interfaces. I want to realize the great UX/UI work the designers do and impact the product! My course work in CS and Psychology gives me the solid skill set to program interactive web pages, as well as the insights of how to build products that get users hooked. I am excited about this opportunity to intern at Zappos!
 
 # llamajoy-website
-http://llama-joy.herokuapp.com/
+http://llamajoy-website.herokuapp.com/
